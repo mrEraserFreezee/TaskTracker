@@ -18,7 +18,9 @@ Task Tracker adalah aplikasi sederhana untuk mengelola dan melacak tugas. Aplika
 1. Pastikan Anda memiliki Python terinstal di sistem Anda.
 2. Kloning repositori ini:
    ```bash
-  [ git clone https://github.com/username/repo.git](https://github.com/mrEraserFreezee/TaskTracker.git)
+  git clone https://github.com/username/repo.git
+  
+  https://github.com/mrEraserFreezee/TaskTracker.git
    cd repo
 3. Tidak ada dependensi tambahan yang diperlukan. Aplikasi ini menggunakan modul Python standar.
 
