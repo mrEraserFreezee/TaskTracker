@@ -52,9 +52,10 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buka issue atau buat pull
 
 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
+https://roadmap.sh/projects/task-tracker
 
 go
-Salin kode
+
 
 Silakan salin seluruh teks di atas ke dalam file `README.md` di repositori Anda! Jika Anda ingin menyesuaikan bagian tertentu, seperti URL repositori, Anda bisa melakukannya sesuai kebutuhan.
 
